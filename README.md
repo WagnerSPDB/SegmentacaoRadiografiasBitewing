@@ -42,4 +42,4 @@ O pipeline do projeto foi desenhado para garantir rigor científico e eficiênci
 * **Laboratório:** EngineLab
 
 ---
-<p align="center">Desenvolvido como parte da pesquisa em Computação Aplicada à Saúde.</p>
+<p align="center">Desenvolvido como parte da pesquisa em Visão Computacioanl Aplicada à Saúde.</p>
